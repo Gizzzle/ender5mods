@@ -12,3 +12,6 @@ Original files:
 - Limit Switch adapter: Original source not available anymore
 - Ender 5 Hermit Crab Rail mount: https://www.thingiverse.com/thing:5274805
 - Ender 5 Plus Y Rail mounts: https://www.thingiverse.com/thing:4928100
+- Tiki Monocoque (reference for the wire guard for the fan): https://github.com/thrutheframe/Tiki_mono
+- Ender 5 X-Gantry Squaring Jig: https://www.thingiverse.com/thing:4311961
+- Raspberry Pi Mount: https://www.thingiverse.com/thing:4140386
